@@ -32,6 +32,8 @@ Data Analysis & AI : Python, Pandas, tensorflow, Algorithm
 Mobie : React-Native  
 DevOps : Docker,Travis CI, AWS(EC2,S3)  
 
+![dosimpact's GitHub stats](https://github-readme-stats.vercel.app/api?username=dosimpact&show_icons=true&theme=radical)
+
 <!--
 **DosImpact/dosimpact** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
