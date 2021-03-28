@@ -17,7 +17,7 @@
 Programming Languages: JavaScript, TypeScript,  
 Front-end: React.js, Redux, Apollo-Client, styled-components  
 Back-end: Nest.js  
-DevOps: Git, Github, Dash, Plotly, Octave  
+DevOps: Git, Github
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
