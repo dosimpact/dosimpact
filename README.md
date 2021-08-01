@@ -14,10 +14,10 @@
 
 
 **Strong Skills**  
-Programming Languages: JavaScript, TypeScript, Python  
-Front-end: React.js, React-Query, Recoil, Redux, Apollo-Client, styled-components  
-Back-end: Node.js, Nest.js, TypeORM, Postgres
-DevOps: Git, Github
+- Programming Languages: JavaScript, TypeScript, Python  
+- Front-end: ReactJS, NextJS, React-Query, Recoil, Redux, styled-components, HTML, SCSS
+- Back-end: NodeJS, NestJS, TypeORM, PostgresSQL
+- DevOps: Git, Github, Docker
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -28,9 +28,10 @@ DevOps: Git, Github
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/nestjs/nestjs.png"></code>
 
 **Interesting Skills**  
-Data Analysis & AI : Python, Pandas, tensorflow, Algorithm  
-Mobile : React-Native  
-DevOps : Docker, Travis CI, AWS(EC2,S3)  
+- Web : ApolloClient(GraphQL)
+- Data Analysis & AI : Python, Pandas, Algorithm  
+- Mobile : React-Native  
+- DevOps : Docker, Travis CI, AWS(EC2,S3)  
 
 ![dosimpact's GitHub stats](https://github-readme-stats.vercel.app/api?username=dosimpact&show_icons=true&theme=radical)
 
