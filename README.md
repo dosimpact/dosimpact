@@ -3,8 +3,10 @@
 ### Hello👋 My name is DoyoungKim
 
 
+### [이력서&포트폴리오](https://www.notion.so/dosimpact/Kim-Do-Young-623609d5699849b3a5db5b1cc248c609) 
+[![Tech Blog Badge](https://img.shields.io/badge/-%EC%9D%B4%EB%A0%A5%EC%84%9C&%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-000000?style=flat-square&logo=notion&link=https://www.notion.so/dosimpact/Kim-Do-Young-623609d5699849b3a5db5b1cc248c609/)](https://www.notion.so/dosimpact/Kim-Do-Young-623609d5699849b3a5db5b1cc248c609) 
+<br/>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-profile%20project-000000?style=flat-square&logo=notion&link=https://www.notion.so/dosimpact/Kim-Do-Young-623609d5699849b3a5db5b1cc248c609/)](https://www.notion.so/dosimpact/Kim-Do-Young-623609d5699849b3a5db5b1cc248c609) 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100003114476990)](https://www.facebook.com/profile.php?id=100003114476990) 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ypd03008//)](https://www.instagram.com/ypd03008/)
 
@@ -14,9 +16,9 @@
 
 
 **Strong Skills**  
-Programming Languages: JavaScript, TypeScript,  
-Front-end: React.js, Redux, Apollo-Client, styled-components  
-Back-end: Nest.js  
+Programming Languages: JavaScript, TypeScript, Python  
+Front-end: React.js, React-Query, Recoil, Redux, Apollo-Client, styled-components  
+Back-end: Node.js, Nest.js, TypeORM, Postgres
 DevOps: Git, Github
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -29,8 +31,8 @@ DevOps: Git, Github
 
 **Interesting Skills**  
 Data Analysis & AI : Python, Pandas, tensorflow, Algorithm  
-Mobie : React-Native  
-DevOps : Docker,Travis CI, AWS(EC2,S3)  
+Mobile : React-Native  
+DevOps : Docker, Travis CI, AWS(EC2,S3)  
 
 ![dosimpact's GitHub stats](https://github-readme-stats.vercel.app/api?username=dosimpact&show_icons=true&theme=radical)
 
