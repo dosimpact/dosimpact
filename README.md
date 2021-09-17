@@ -9,7 +9,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ypd03008//)](https://www.instagram.com/ypd03008/)
 
 - 🚀 Junior Web Developers   
-- 🌱 I’m currently learning Data Analysis & AI
+- 🌱 I’m currently developing Algoridang Service (SW-Maestro-12th)
 - ⏰ **Studious** is my strength
 
 
